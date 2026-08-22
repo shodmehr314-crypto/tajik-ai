@@ -1,0 +1,6 @@
+{
+  "name": "Tajik AI",
+  "description": "Зеҳни сунъии тоҷикӣ - World-class Tajik AI Assistant created by Shodmehr with trilingual chat (Tajik, Russian, English), 25+ intelligent tools, document analysis (PDF/Word/Excel/CSV), vision recognition, speech input/output, and web search grounding.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
